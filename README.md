@@ -18,3 +18,4 @@ UUID's will vary based on the game but will involve some combination of card gam
 - Flavor text
 - Artist
 - Passcode (only applicable for older sets)
+- First Edition/Unlimited Printing
